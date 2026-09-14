@@ -1,0 +1,20 @@
+# Сборочные директории
+build/
+bin/
+debug/
+release/
+
+# Qt и CMake файлы
+*.pro.user
+*.pro.user.*
+CMakeCache.txt
+CMakeFiles/
+cmake-install.cmake
+Makefile
+*.o
+
+# Системные файлы и IDE
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini
