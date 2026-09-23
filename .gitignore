@@ -1,0 +1,8 @@
+# Системные файлы
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Среда разработки и логи
+.vscode/
+*.log
